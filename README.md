@@ -53,3 +53,5 @@ weren't able to be fully realized via the backup script.
 I'm hoping that after this project I will be able to figure it out because it is 
 simply not happening right now. 
 I believe the biggest issues is trying to figure out how to work Git Bash via a Linux guide.
+
+Cpde Review (Daniel Thoreson) After reviewing your submission of Project 2, it is clear that you understood most if not all of the concepts very well. Your code was very similar to what we were shown and proper formats were followed. I think that a lot of people had similar issues with directories as I certainly did. I do not have any improvements that I think can be made.
